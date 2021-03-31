@@ -1,0 +1,119 @@
+@import 
+url('https://fonts.googleapis.com/css2?family=Pacifico&family=Train+One&display=swap');
+
+  
+.hero{
+ height: 70vh;
+ background-image: url("https://images.unsplash.com/photo-1512341350577-a09358311cb1?ixid=MXwxMjA3fDB8MHxzZWFyY2h8ODN8fHRlZGR5JTIwYmVhcnxlbnwwfDB8MHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
+  background-size: 840px;
+  border-radius :30px;
+  margin : 5px; 
+  text-decoration : underline #ff9f1c;
+  display : flex;
+  align-items : center;
+}
+
+h1 {
+  font-family : pacifico;
+  font-style : bold;
+  font-size : 70px; 
+  color : #ff9f1c;
+  display : flex;
+  align-items : center;
+}
+p{
+  font-family : pacifico;
+  color : white;
+  font-size : 20px; 
+  text-decoration: underline; 
+}
+
+p1{
+  font-family : pacifico;
+  color : white;
+  font-size : 50px; 
+  }
+
+ 
+.card{
+  border: 5px ;
+  margin: 20px 50px;
+  padding: 50px;
+  border-radius: 16px;
+  border-color: blue;
+ }
+
+h2{
+  font-family : pacifico;
+  font-size: 50px;
+  color : #ff9f1c;
+  text-align :center;
+}
+
+p2{
+  font-family : pacifico;
+  color : #ff9f1c;
+  font-size : 20px; 
+  text-align :center;
+ }
+
+img{
+  border-radius :40px;
+  }
+
+#flex{
+ display: flex;
+ justify-content: space-around;
+ padding: 30px;
+ width : 100%; 
+ margin: 16px 0px;
+ }
+
+.hero1{
+   height: 30vh;
+ border : 3px solid #2ec4b6;
+  background-size: 300px;
+  margin : 10px; 
+  border-radius : 20px; 
+}
+
+
+#flex1{
+  display :flex;
+  justify-content : space-between; 
+}
+
+#flex2{
+ display :flex;
+ align-items:center;
+}
+
+.card1{
+  border: 5px ;
+  margin: 5px 3px;
+  padding: 3px;
+  border-radius: 16px;
+  text-align:center;
+}
+
+p3{
+  font-family : pacifico;
+  color : #2ec4b6;
+  font-size : 20px; 
+  text-align :center;
+ }
+
+#flex3{  
+  display: flex;
+  justify-content: space-between; 
+  align-items : flex-end;
+}
+
+p4{
+  font-family : pacifico;
+  color : #2ec4b6;
+  font-size : 50px; 
+  text-align :center;
+ }
+  
+}
