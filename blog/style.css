@@ -37,6 +37,7 @@ img {
 }
 
 .center{
+    display :flex;
   text-align: center;
 }
 .container {
