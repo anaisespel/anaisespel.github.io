@@ -1,1 +1,113 @@
-h1 {color : red; }
+
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Pacifico&family=Raleway:ital,wght@0,100;0,400;1,100&family=Roboto:ital,wght@0,100;1,300&display=swap');
+
+h1{
+  color: #023047;
+  text-align : center;
+  font-family :"balsamiq sans"
+}
+
+h2{
+  color :#ffb703;
+  text-align : center;
+}
+
+p1 {
+  color: grey;
+}
+
+p2{
+  text-align :center;
+}
+img{
+  border-radius : 400px;
+  
+}
+a{
+  text-decoration : none;
+}
+p{
+  font-size : 15px;
+}
+
+body{
+  background-color : #ffecc7;
+  padding : 50px;
+  font-family : "raleway"
+    }
+
+div{
+  border : 5px ;
+  margin : 50px;
+  padding : 50px;
+  border-radius : 30px;
+  background-color : white;
+}
+
+
+.card {
+  border: 5px ;
+  margin: 20px 50px;
+  padding: 50px;
+  border-radius: 16px;
+  box-shadow: 0 7px 10px rgba(0,0,0,.1);
+
+}
+
+.center{
+  text-align: center;
+}
+
+.btn{
+  background-color: orange;
+  color: white;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+.btn1{
+  background-color: #023047;
+  color: white;
+  padding: 6px;
+  border-radius: 6px;
+}
+
+
+div1{
+  border : 5px solid #ffb703;
+  margin : 50px;
+  padding : 50px;
+  border-radius : 30px;  
+ 
+}
+.card:hover{
+  box-shadow: 11px 13px 0px rgb(0 0 0 / 10%);
+}
+
+  .bg-green{
+  background-color: #0e918c
+}
+
+.text-green{
+  color: #0e918c
+}
+
+.bg-red{
+    background-color: #f05454;
+}
+
+.text-red{
+  color: #f05454
+}
+
+.bg-blue{
+    background-color: #2d6187    
+}
+
+.text-blue{
+  color: #2d6187
+}
+
+#flex1{
+ display: flex;
+ justify-content: space-between;
