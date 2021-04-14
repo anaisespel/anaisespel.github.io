@@ -1,1 +1,95 @@
-h1 {color : red; }
+@import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans&family=Pacifico&family=Raleway:ital,wght@0,100;0,400;1,100&family=Roboto:ital,wght@0,100;1,300&display=swap');
+
+.hero{
+  height: 50vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("https://images.unsplash.com/photo-1610278989061-ed8bbf597d88?ixid=MXwxMjA3fDB8MHxzZWFyY2h8MjZ8fHJldW5pb24lMjBpc2xhbmR8ZW58MHwwfDB8&ixlib=rb-1.2.1&auto=format&fit=crop&w=600&q=60");
+  background-size: cover;
+}
+  
+  h1 {
+    color : #fb8500; 
+    font-family : roboto;
+    font-style: bold;    
+  }
+
+h2 {
+  color : #fc4c02;
+  font-family :raleway; 
+  text-align : center;
+}
+
+.card {
+  border: 5px ;
+  margin: 20px 50px;
+  padding: 50px;
+  border-radius: 16px;
+  box-shadow: 0 7px 10px rgba(0,0,0,.1);
+}
+
+  p {
+    font-family : raleway; 
+  }
+img {
+  border-radius : 300px;
+}
+
+.center{
+  text-align: center;
+}
+.container {
+  font-size : 20px;
+  text-align : center;
+}
+
+.btn1{
+    background-color: #245501;
+  color: white;
+  font-family : raleway;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn2{
+    background-color: #8ecae6;
+  color: white;
+  font-family : raleway;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn3{
+    background-color: #023047;
+  color: white;
+  font-family : raleway;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+.btn4{
+    background-color: #d00000;
+  color: white;
+  font-family : raleway;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 20px;
+  display: inline-block;
+  text-decoration: none;
+}
+
+background-image : url(https://tse1.mm.bing.net/th?id=OIP.oLUBejtcFMyId1GAfFaGsAHaE8&pid=Api)
